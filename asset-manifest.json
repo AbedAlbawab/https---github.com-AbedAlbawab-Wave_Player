@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https---github.com-AbedAlbawab-Wave_Player/static/css/main.5b1aacb8.chunk.css",
+    "main.js": "/https---github.com-AbedAlbawab-Wave_Player/static/js/main.9260ecba.chunk.js",
+    "main.js.map": "/https---github.com-AbedAlbawab-Wave_Player/static/js/main.9260ecba.chunk.js.map",
+    "runtime-main.js": "/https---github.com-AbedAlbawab-Wave_Player/static/js/runtime-main.5d7ee74d.js",
+    "runtime-main.js.map": "/https---github.com-AbedAlbawab-Wave_Player/static/js/runtime-main.5d7ee74d.js.map",
+    "static/js/2.5023cbf3.chunk.js": "/https---github.com-AbedAlbawab-Wave_Player/static/js/2.5023cbf3.chunk.js",
+    "static/js/2.5023cbf3.chunk.js.map": "/https---github.com-AbedAlbawab-Wave_Player/static/js/2.5023cbf3.chunk.js.map",
+    "index.html": "/https---github.com-AbedAlbawab-Wave_Player/index.html",
+    "static/css/main.5b1aacb8.chunk.css.map": "/https---github.com-AbedAlbawab-Wave_Player/static/css/main.5b1aacb8.chunk.css.map",
+    "static/js/2.5023cbf3.chunk.js.LICENSE.txt": "/https---github.com-AbedAlbawab-Wave_Player/static/js/2.5023cbf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7ee74d.js",
+    "static/js/2.5023cbf3.chunk.js",
+    "static/css/main.5b1aacb8.chunk.css",
+    "static/js/main.9260ecba.chunk.js"
+  ]
+}
